@@ -1,7 +1,9 @@
 <template>
     <banner-comp/>
     <div>
-        <h1 class="text-h4 text-sm-h5">MONTE SEU HABÚRGUER</h1>
+        <q-responsive>
+            <h1 class="titulo">MONTE SEU HABÚRGUER</h1>
+        </q-responsive>
     </div>
 </template>
 
@@ -18,5 +20,10 @@ import BannerComp from 'src/components/BannerComp.vue'
 </script>
 
 <style scoped>
+@media (max-width: 800px) {
+    .titulo{
+        font-size: 25px;
+    }
+}
 
 </style>

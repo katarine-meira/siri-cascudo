@@ -1,6 +1,6 @@
 <template>
     <div id="banner">
-        <h1 text-h1 text-md-h3>Monte Seu Hambúrguer</h1>
+        <h1 class="titulo bg-grey-10 text-white q-px-md">Monte Seu Hambúrguer</h1>
     </div>
 </template>
 
@@ -22,4 +22,10 @@
         background-repeat: no-repeat;
     }
 
+    @media (max-width: 800px) {
+        .titulo{
+            font-size: 25px;
+        }
+    }
+    
 </style>

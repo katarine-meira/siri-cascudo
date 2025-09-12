@@ -40,7 +40,7 @@ import FooterComp from 'src/components/FooterComp.vue';
 
 h1{
   text-align: center;
-  font-size: 42px;
+  font-size: 38px;
   margin-bottom: 30px;
   color: #222;
 }
