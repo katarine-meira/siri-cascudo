@@ -1,6 +1,6 @@
 <template>
     <div id="banner">
-        <h1 class="titulo bg-grey-10 text-white q-px-md">Monte Seu Hambúrguer</h1>
+        <h1 class="titulo bg-grey-10 text-white q-px-md">Siri Cascudo</h1>
     </div>
 </template>
 
