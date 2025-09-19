@@ -21,8 +21,9 @@
     border: 2px solid #B8daff;
     border-radius: 5px;
     padding: 10px;
-    margin: 30px;
+    margin: 30px auto; /* <-- centraliza horizontalmente */
     text-align: center;
+    width: 300px;
  }
  
 </style>

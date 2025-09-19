@@ -78,6 +78,54 @@
     }
   ],
   "burgers": [
-    
+    {
+      "id": "6859",
+      "nome": "Katarine ",
+      "pao": "Italiano Branco",
+      "carne": "Picanha",
+      "opcionais": [
+        "Bacon",
+        "Tomate",
+        "Cheddar"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "b0fe",
+      "nome": "maria",
+      "pao": "Italiano Branco",
+      "carne": "Veggie burger",
+      "opcionais": [
+        "Bacon",
+        "Pepino",
+        "Cheddar",
+        "Tomate"
+      ],
+      "status": "Em produção"
+    },
+    {
+      "id": "072e",
+      "nome": "nixon",
+      "pao": "Parmesão e Orégano",
+      "carne": "Picanha",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Tomate",
+        "Cebola roxa"
+      ],
+      "status": "Finalizado"
+    },
+    {
+      "id": "1952",
+      "nome": "maria",
+      "pao": "3 Queijos",
+      "carne": "Veggie burger",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "solicitado"
+    }
   ]
 }
